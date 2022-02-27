@@ -8,7 +8,7 @@ setuptools.setup(
     name="topsis-deepanshi-401903006",
     version="1.0.0",
     author="Deepanshi Srivastava",
-    author_email="dsrivastava_bemba19@thapar.edu",
+    author_email="deepanshi2105@gmail.com",
     description="A package -> Calculates Topsis Score and Rank accordingly",
     long_description=long_description,
     long_description_content_type="text/markdown",
